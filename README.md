@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my fullstack MERN skill**
 
-- 🌱 I’m currently learning **Java, Apache Maven, and AWS**
+- 🌱 I’m currently learning **ReactJS, ExpressJS, and AWS**
 
 - 📫 How to reach me **Kennyftw2@gmail.com**
 
